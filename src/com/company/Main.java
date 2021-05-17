@@ -10,9 +10,5 @@ public class Main {
         Book book1 = new Book("Developing Java Software",79.75, author1.getFirstName());
 
         System.out.println("title: " + book1.getTitle() + " authored by " + book1.getAuthor() + " price " + book1.getPrice());
-
-
-
-
     }
 }
